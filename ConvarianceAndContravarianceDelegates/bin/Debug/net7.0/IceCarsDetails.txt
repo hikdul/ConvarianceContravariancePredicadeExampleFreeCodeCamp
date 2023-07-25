@@ -1,0 +1,10 @@
+Object Type: ConvarianceAndContravarianceDelegates.ICECar
+Car Details: 1 - Audo R8  - Inetrnal Combustion Engine
+Object Type: ConvarianceAndContravarianceDelegates.ICECar
+Car Details: 1 - Audo R8  - Inetrnal Combustion Engine
+Object Type: ConvarianceAndContravarianceDelegates.ICECar
+Car Details: 1 - Audo R8  - Inetrnal Combustion Engine
+Object Type: ConvarianceAndContravarianceDelegates.ICECar
+Car Details: 1 - Audo R8  - Inetrnal Combustion Engine
+Object Type: ConvarianceAndContravarianceDelegates.ICECar
+Car Details: 1 - Audo R8  - Inetrnal Combustion Engine
